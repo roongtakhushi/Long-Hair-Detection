@@ -27,6 +27,9 @@ python long_hair_gui.py
 
 Upload an image and the model will predict if the person has long hair.
 
+## Download Caffemodels :-
+https://drive.google.com/drive/folders/1o2QeeejdnSUz6a4ztQuiR2zGmbXEQ0hg?usp=drive_link
+
 ## Requirements
 - Python 3.x
 - OpenCV (cv2)
